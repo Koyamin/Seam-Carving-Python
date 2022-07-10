@@ -57,3 +57,7 @@ The structure of this project is:
 └─ UiController.py                          // UI Controller Class
 ```
 
+## GUI
+
+![image](./image/gui.png)
+![image](./image/gui2.png)
