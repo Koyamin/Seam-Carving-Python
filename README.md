@@ -2,6 +2,13 @@
 
 A Seam-Carving Application with GUI by using Python 3. The GUI is builded by PyQT5.
 
+## Features of Project
+
+This project has these features:
+- Automatically resize the size of an image.
+- Keep face when resizing an image if exists.
+- Select and Erase an area by using mouse.
+
 ## Details of Project
 
 ### Development Environment
