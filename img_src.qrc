@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>src/icons/logo.svg</file>
+    <file>src/icons/open.svg</file>
+    <file>src/icons/open_disabled.svg</file>
+    <file>src/icons/run.svg</file>
+    <file>src/icons/run_disabled.svg</file>
+    <file>src/icons/save.svg</file>
+    <file>src/icons/save_disabled.svg</file>
+  </qresource>
+</RCC>
