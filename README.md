@@ -1,6 +1,6 @@
 # Seam-Carving-Python
 
-A Seam-Carving Application with GUI by using Python 3. The GUI is builded by PyQT5.
+A Seam-Carving GUI Application by using Python 3. The GUI is built by PyQT5.
 
 ## Features of Project
 
